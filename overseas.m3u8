@@ -38,13 +38,5 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 group-title="待修复频道",美国ABC新闻直播 ABC News Live（待测试·新源）
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 group-title="新增测试频道",BBC生活频道 BBC Lifestyle（待测试）
-https://tv.ddns.vn/tv/bbclifestyle/index.m3u8
-#EXTINF:-1 group-title="新增测试频道",美国历史频道 HISTORY HD（待测试）
+#EXTINF:-1 group-title="海外频道",美国历史频道 HISTORY HD（美国VPN）
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 group-title="新增测试频道",国家地理高清频道 National Geographic HD（待测试）
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 group-title="新增测试频道",国家地理野生频道 Nat Geo Wild（待测试）
-http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 group-title="新增测试频道",美国公共电视儿童频道 PBS Kids（待测试）
-https://tvsen7.aynascope.net/pbskids/index.m3u8
