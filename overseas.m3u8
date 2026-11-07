@@ -40,14 +40,13 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 group-title="海外频道",美国历史频道 HISTORY HD（美国VPN）
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" group-title="少儿教育测试",美国公共电视儿童频道 PBS Kids（待测试）
+#EXTINF:-1 tvg-id="PBSKids.us@SD" group-title="海外频道",美国公共电视儿童频道 PBS Kids（美国VPN）
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-
-#EXTINF:-1 group-title="少儿教育测试",美国航天局电视台 NASA TV（待测试）
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-
-#EXTINF:-1 group-title="少儿教育测试",美国儿童频道 HappyKids（待测试）
+#EXTINF:-1 group-title="海外频道",美国儿童频道 HappyKids（美国VPN）
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
-#EXTINF:-1 group-title="少儿教育测试",达芬奇儿童教育频道 Da Vinci Kids（待测试）
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="WorldChannel.us@SD" group-title="教育测试频道",美国公共电视纪录频道 WORLD Channel（待测试）
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" group-title="教育测试频道",史密森尼精选频道 Smithsonian Channel Selects（待测试）
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
