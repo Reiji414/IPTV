@@ -40,3 +40,14 @@ https://tbs5.mov3.co/hls/tbs.m3u8
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 group-title="海外频道",美国历史频道 HISTORY HD（美国VPN）
 http://212.5.144.156:8080/history/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids.us" group-title="少儿教育测试",美国公共电视儿童频道 PBS Kids（待测试）
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+
+#EXTINF:-1 group-title="少儿教育测试",美国航天局电视台 NASA TV（待测试）
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 group-title="少儿教育测试",美国儿童频道 HappyKids（待测试）
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+
+#EXTINF:-1 group-title="少儿教育测试",达芬奇儿童教育频道 Da Vinci Kids（待测试）
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
