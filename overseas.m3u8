@@ -1,50 +1,49 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCNews.uk@Africa" group-title="海外频道",英国广播公司新闻台 BBC News（新/美VPN）
+#EXTINF:-1 ch-number="1" tvg-id="BBCNews.uk@Africa" group-title="海外频道",01. 英国广播公司新闻台 BBC News（新/美VPN）
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="CNNInternational.us@NorthAmerica" group-title="海外频道",美国有线电视新闻网国际频道 CNN International（新/美VPN）
+#EXTINF:-1 ch-number="2" tvg-id="CNNInternational.us@NorthAmerica" group-title="海外频道",02. 美国有线电视新闻网国际频道 CNN International（新/美VPN）
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English" group-title="海外频道",法国24新闻台（英语） France 24 English（新/美VPN）
-https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="DW.de@English" group-title="海外频道",德国之声（英语） DW English（新/美VPN）
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="海外频道",半岛电视台（英语） Al Jazeera English（新/美VPN）
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD" group-title="海外频道",欧洲新闻台（英语） Euronews English（新/美VPN）
-https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
-#EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" group-title="海外频道",美国全国广播公司新闻直播 NBC News NOW（新/美VPN）
+#EXTINF:-1 ch-number="3" tvg-id="NBCNewsNOW.us@SD" group-title="海外频道",03. 美国全国广播公司新闻直播 NBC News NOW（新/美VPN）
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="海外频道",新闻极限电视台 Newsmax TV（新/美VPN）
-https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="海外频道",英国GB新闻台 GB News（新/美VPN）
-https://jmp2.uk/stvp-GBBB1600008R3
-#EXTINF:-1 tvg-id="" group-title="海外频道",基督教广播网新闻台 CBN News（新/美VPN）
-https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" group-title="海外频道",日本广播协会国际台 NHK World-Japan（新/美VPN）
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-id="" group-title="海外频道",新传媒亚洲新闻台 CNA News（新/美VPN）
+#EXTINF:-1 ch-number="4" tvg-id="France24.fr@English" group-title="海外频道",04. 法国24新闻台（英语） France 24 English（新/美VPN）
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 ch-number="5" tvg-id="DW.de@English" group-title="海外频道",05. 德国之声（英语） DW English（新/美VPN）
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 ch-number="6" tvg-id="AlJazeera.qa@English" group-title="海外频道",06. 半岛电视台（英语） Al Jazeera English（新/美VPN）
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 ch-number="7" tvg-id="EuronewsEnglish.fr@SD" group-title="海外频道",07. 欧洲新闻台（英语） Euronews English（新/美VPN）
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 ch-number="8" tvg-id="" group-title="海外频道",08. 新传媒亚洲新闻台 CNA News（新/美VPN）
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="TVEStar.es@HD" group-title="海外频道",西班牙TVE明星频道 TVE Star（美国VPN）
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
-#EXTINF:-1 tvg-id="ClanInternacional.es@SD" group-title="海外频道",西班牙Clan国际少儿频道 Clan Internacional（美国VPN·卡顿）
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" group-title="海外频道",法国24新闻台（西班牙语） France 24 Español（新/美VPN）
+#EXTINF:-1 ch-number="9" tvg-id="NHKWorldJapan.jp@SD" group-title="海外频道",09. 日本广播协会国际台 NHK World-Japan（新/美VPN）
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 ch-number="10" tvg-id="" group-title="海外频道",10. 英国GB新闻台 GB News（新/美VPN）
+https://jmp2.uk/stvp-GBBB1600008R3
+#EXTINF:-1 ch-number="11" tvg-id="NewsmaxTV.us@SD" group-title="海外频道",11. 新闻极限电视台 Newsmax TV（新/美VPN）
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 ch-number="12" tvg-id="" group-title="海外频道",12. 基督教广播网新闻台 CBN News（新/美VPN）
+https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
+#EXTINF:-1 ch-number="13" tvg-id="France24.fr@Spanish" group-title="海外频道",13. 法国24新闻台（西班牙语） France 24 Español（新/美VPN）
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="待修复频道",英国广播公司第一台伦敦 BBC One London（待测试·可能需英国IP）
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es@HD" group-title="待修复频道",西班牙电视国际台（亚太版） TVE Internacional（待测试·地区限制）
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
-#EXTINF:-1 group-title="待修复频道",日本TBS电视台 JP-TBS（均无法播放·待修复）
-https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:-1 group-title="待修复频道",美国ABC新闻直播 ABC News Live（待测试·新源）
-https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 group-title="海外频道",美国历史频道 HISTORY HD（美国VPN）
+#EXTINF:-1 ch-number="14" group-title="海外频道",14. 美国历史频道 HISTORY HD（美国VPN）
 http://212.5.144.156:8080/history/index.m3u8
-#EXTINF:-1 tvg-id="PBSKids.us" group-title="海外频道",美国公共电视儿童频道 PBS Kids（美国VPN）
-https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 group-title="海外频道",美国儿童频道 HappyKids（美国VPN）
-https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="WorldChannel.us@SD" group-title="海外频道",美国公共电视纪录频道 WORLD Channel（美国VPN）
+#EXTINF:-1 ch-number="15" tvg-id="WorldChannel.us@SD" group-title="海外频道",15. 美国公共电视纪录频道 WORLD Channel（美国VPN）
 https://world.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannelSelects.us@SD" group-title="海外频道",史密森尼精选纪录片频道 Smithsonian Channel Selects（美国VPN）
+#EXTINF:-1 ch-number="16" tvg-id="SmithsonianChannelSelects.us@SD" group-title="海外频道",16. 史密森尼精选纪录片频道 Smithsonian Channel Selects（美国VPN）
 https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
+#EXTINF:-1 ch-number="17" tvg-id="PBSKids.us" group-title="海外频道",17. 美国公共电视儿童频道 PBS Kids（美国VPN）
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 ch-number="18" group-title="海外频道",18. 美国儿童频道 HappyKids（美国VPN）
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 ch-number="19" tvg-id="TVEStar.es@HD" group-title="海外频道",19. 西班牙TVE明星频道 TVE Star（美国VPN）
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+#EXTINF:-1 ch-number="20" tvg-id="ClanInternacional.es@SD" group-title="海外频道",20. 西班牙Clan国际少儿频道 Clan Internacional（美国VPN·卡顿）
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-1 ch-number="21" tvg-id="BBCOne.uk@LondonHD" group-title="待修复频道",21. 英国广播公司第一台伦敦 BBC One London（待测试·可能需英国IP）
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 ch-number="22" tvg-id="TVEInternacionalEuropeAsia.es@HD" group-title="待修复频道",22. 西班牙电视国际台（亚太版） TVE Internacional（待测试·地区限制）
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
+#EXTINF:-1 ch-number="23" group-title="待修复频道",23. 日本TBS电视台 JP-TBS（均无法播放·待修复）
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 ch-number="24" group-title="待修复频道",24. 美国ABC新闻直播 ABC News Live（待测试·新源）
+https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
