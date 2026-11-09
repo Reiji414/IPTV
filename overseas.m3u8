@@ -47,3 +47,15 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_1080.m3u8
 https://tbs5.mov3.co/hls/tbs.m3u8
 #EXTINF:-1 ch-number="24" group-title="待修复频道",24. 美国ABC新闻直播 ABC News Live（待测试·新源）
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
+
+#EXTINF:-1 tvg-id="arte.fr@SD" group-title="新增测试频道",欧洲文化艺术电视台 ARTE（法语·待测试）
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+
+#EXTINF:-1 tvg-id="arte.de@SD" group-title="新增测试频道",欧洲文化艺术电视台 ARTE（德语·待测试）
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+
+#EXTINF:-1 tvg-id="Tastemade.us@US" group-title="新增测试频道",美国美食旅行生活频道 Tastemade（待测试）
+https://amg00047-tastemade-amg00047c4-cineverse-us-1361.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadefreetv16-cineverseus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TastemadeTravel.us@SD" group-title="新增测试频道",美国美食旅行频道 Tastemade Travel（待测试）
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
